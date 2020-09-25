@@ -1,0 +1,23 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dudziakm/cypressDemo.git"
+  },
+  "author": "Michal Dudziak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dudziakm/cypressDemo/issues"
+  },
+  "homepage": "https://github.com/dudziakm/cypressDemo#readme"
+}
