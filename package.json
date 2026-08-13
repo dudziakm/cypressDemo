@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "cypress": "^15.15.0"
+    "cypress": "^15.20.1"
   },
-  "devDependencies": {},
   "scripts": {
     "cypress:open": "cypress open"
   },
