@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/dudziakm/cypressDemo#readme",
   "overrides": {
-    "qs": "6.16.0"
+    "qs": "6.16.1"
   }
 }
